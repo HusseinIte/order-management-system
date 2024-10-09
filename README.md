@@ -31,8 +31,8 @@ This is a training project built using Laravel that manages orders and payments 
  1. **Clone the repository:**
  
      ```bash
-     git clone https://github.com/HusseinIte/CoursesManagementSystem.git
-     cd CoursesManagementSystem
+     git clone  https://github.com/HusseinIte/order-management-system.git
+     cd OrderManagementSystem
      ```
  
  2. **Install dependencies:**
